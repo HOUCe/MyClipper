@@ -1,0 +1,1 @@
+我本地md文件夹，现在用了好多工具在管理，Typora、Obsidian、Sublime、MarkEditor、Logseq

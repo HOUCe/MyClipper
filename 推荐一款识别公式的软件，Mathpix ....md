@@ -1,0 +1,1 @@
+推荐一款识别公式的软件，Mathpix Snipping Tool，可以OCR识别图片、手写公式，转为latex，iOS 安卓 Mac win都有

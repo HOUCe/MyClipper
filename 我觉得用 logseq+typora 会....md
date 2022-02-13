@@ -1,0 +1,1 @@
+我觉得用 logseq+typora 会更好。typora 本地有版本控制，logseq 发疯的时候会丢文件。

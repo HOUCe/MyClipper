@@ -1,0 +1,1 @@
+在Database中，添加Multi-Select属性，之后可以用看板视图(Board)更清晰。

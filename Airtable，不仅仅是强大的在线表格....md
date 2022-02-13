@@ -1,0 +1,110 @@
+# Airtable，不仅仅是强大的在线表格应用，而是一个新物种
+
+[zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/74053867)效率火箭已关注
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic3.zhimg.com%2Fv2-8e04fba7a714c676a2553a10fd611a0a_b.jpg)
+
+**Airtable** 是一个海外的在线表格应用，已经出现了好几年，火箭君一直在默默关注。 然而，这款应用并不是按照「剧本」朝着「在线Excel」或者「SpreadSheet」的方向演化，而是逐渐成为一个全新的物种。-
+现在的 Airtable，完全可以承担一个普通岗位的全部数据管理工作，也特别适合 Freelancer/ 小型团队 管理自己的业务甚至项目。-
+今天我们就来介绍一下这款**「新物种」**，并看看它的利与弊。
+
+## -
+**Airtable 登场**
+
+![](https://image.cubox.pro/article/2021091423090989057/65452.jpg)
+
+Airtable 是新型的在线表格制作工具，而且不仅局限于表格，它还可以把 文字、图片、链接、文档等各种资料整合在一起。
+
+**\>>>>存储结构**
+
+在 Airtable 中 按照
+
+**Workspace 》 Base 》Table**
+
+这样的层级关系存储数据。
+
+首先，我们可以创建 在账户下 创建 Workspace，相当于一个文件夹。-
+然后，Workspace里可以创建多个 Base，每一个 Base 其实可以看成一个单独的表格文件。后文会提到，Base 远非一张「表格」那么简单， 更像是「数据库」（Database）。-
+最后 ，Table 就是一个具体记载数据的表格，相当于Excel 里的一个 Sheet。
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic3.zhimg.com%2Fv2-a9bcf44ceb597786337c8e3f48846aba_b.jpg)
+
+-
+**\>>>>模板**
+
+Airtable 准备了许多默认 Template（模板）供我们选择，涵盖了个人、办公、团队合作、娱乐生活等多个类别。方便我们快速上手使用。
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic3.zhimg.com%2Fv2-d96e579eef6fba8b25e460b80959370e_b.jpg)
+
+-
+**\>>>>视图**-
+**视图（Views）是 Airtable 和 Excel 截然不同的地方。**-
+从「视图」开始，我可以看到除了 Excel 常见的 「二维表」以外，还有多种组织呈现数据的方式。 目前，Airtable 主要有如下视图种类：
+
+*   **网格视图：** 传统的二维表，可以按字段分组。
+*   **日历视图** ：通过时间维度，划分信息，适合有时效的事项管理。
+*   **看板视图** ：变成 Trello之类的看板，适合项目/任务管理。
+*   **图库视图** ：更适合图片素材的收集查看和管理。
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic3.zhimg.com%2Fv2-ccfdae7d91a71b73a6224d57b5ad02a6_b.jpg)
+
+## **一些特色功能**
+
+既然 Airtable 是从「在线Excel」开始发家的，那么常规表格处理之类功能，我们就不再累述。下面是 Airtable 有特色的地方。
+
+**\>>>> 导入已有Excel表格**
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic4.zhimg.com%2Fv2-fb02eb42fa39fa7a8b3541642e08cc3b_b.jpg)
+
+**\>>>> 选择第三方工具**
+
+Airtable 连接 30多个第三方工具，进行数据交换。不过有部分工具，可能国内无法访问。-
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic3.zhimg.com%2Fv2-486c22e1baf48c36f9a366259edf879a_b.jpg)
+
+此处只展现了部分
+
+**\>>>> 随时随地办公**
+
+虽然是个网页应用，但是也有 移动App支持 ，iOS，安卓全覆盖。
+
+得益于上文所说的多种「视图」，移动端操作体验远好于传统表格。
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic1.zhimg.com%2Fv2-c2dbaed52436402308c51ac1e17d4c40_b.jpg)
+
+-
+**\>>>> 团队协作**
+
+既然是在线应用，团队协作几乎是标配。可以参考国内的「石墨文档」。
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic4.zhimg.com%2Fv2-e27748dc9ffeb1b4715f16941448b747_b.jpg)
+
+-
+**\>>>> 丰富的字段选择**
+
+除了 Excel 中的常见单元格类型，Airtable 还配备了一些特别的「字段类型」供用户选择，例如：「多选」，「附件」，「链接」……
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic1.zhimg.com%2Fv2-f33e905e3547d0114ac0a044d6bc89e0_b.jpg)
+
+## **一些顾虑**
+
+除去数据存放在云端上带来的安全风险之类的「老生常谈」的顾虑外。-
+最大的顾虑，还是在于：Airtable 在「墙」的另一侧，现在虽然可以访问，以前经常有「连接抽风」的情形，也不保证以后会不会。也是基于这个现实的考虑，火箭君经常眼巴巴的看着一些优秀的应用和我们的失之交臂。
+
+当然我们一方面可以等待AirTable进入国内市场，成为本土企业（？）。也可以看看国内的替代品，例如：国内的「伙伴云表格」，感觉一开始是在模仿 Airtable，但现在 已经做了很多接地气的创新，值得大家一用。至于国内其它的「在线表格」应用，几乎都是简单的 Excel，包括微软自己的 Excel Online，和 Airtable相比是两类不同的物种，所以在这里不提也罢。
+
+## **最后**
+
+-
+虽然 Airtable 的免费账号一般个人已经够用，不过如果有工作需求也可考虑付费获得更多功能，主要用于扩充 Base 下的附件存储空间和表格下可保存的记录数。
+
+![](https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fpic3.zhimg.com%2Fv2-5d77d8d37cac70f6f584c822f23e10c6_b.jpg)
+
+据火箭君所知，国内有不少 新兴团队/Freelancer 已经将日常数据跑在Airtable之上。本文仅仅是抛砖引玉，如果大家对 Airtable 有兴趣，欢迎果断留言，我们以后或许可以试着介绍更多 Airtable之上的「工作流」案例。
+
+**AirTable官网地址**-
+[https://airtable.com/](https://airtable.com/)
+
+发布于 2019-07-17 19:40
+
+[查看原网页: zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/74053867)
