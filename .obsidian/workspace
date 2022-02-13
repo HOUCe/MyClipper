@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "3f2cbcd16fef2380",
+    "type": "split",
+    "children": [
+      {
+        "id": "65473afe5a8c3078",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tech/重学安卓/重学安卓 基本功：是随时随地可受用的 深度思考原则 － 小专栏.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7389e0a6cacae2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d6a0dacda98bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2eecb98dba34216",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b9edf2a85f2d0f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "000469b171594eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "98eb4b8abed2f045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82dc6eb6b4099eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/重学安卓/重学安卓 基本功：是随时随地可受用的 深度思考原则 － 小专栏.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65473afe5a8c3078",
+  "lastOpenFiles": [
+    "Tech/重学安卓/重学安卓 基本功：是随时随地可受用的 深度思考原则 － 小专栏.md",
+    "有哪些个人知识管理工具值得推荐？你是如何....md",
+    "《看不够的中国史》带你走进历史，读懂历史 - 知乎.md",
+    "Inbox/进化的历史-从宇宙大爆炸到现代社会/第1章 生命的诞生.md",
+    "Tech/拉勾教育/32个Java面试必考点/开篇：建立年薪50万的能力框架.md",
+    "【体验笔记】别被免费无限空间给骗了--一....md"
+  ]
+}
